@@ -41,7 +41,7 @@ backend/
 
 ## 🌐 Live Demo
 
-**Backend Live URL:** [backend_URL](wss://real-time-shareroom-chat-app.onrender.com);
+**Backend Live URL:** [backend_URL](https://real-time-shareroom-chat-app.onrender.com);
 **Frontend Live URL:** [Frontend_URL](https://real-time-share-room-chat-app.vercel.app/);
 
 ## 🚀 Getting Started
