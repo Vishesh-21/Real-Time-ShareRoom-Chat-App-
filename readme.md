@@ -39,6 +39,11 @@ backend/
 - **Backend:** Node.js, Express
 - **Communication:** WebSocket (`ws` package)
 
+## 🌐 Live Demo
+
+**Backend Live URL:** [backend_URL](wss://real-time-shareroom-chat-app.onrender.com);
+**Frontend Live URL:** [Frontend_URL](https://real-time-share-room-chat-app.vercel.app/);
+
 ## 🚀 Getting Started
 
 ### Prerequisites
